@@ -14,12 +14,7 @@ Possuo mais de 5 anos de experiência no setor industrial com **Controle de Qual
 * **Gestão & Controle:** **Git**, **GitHub**, Metodologias Ágeis (**Scrum**).
 
 ---
-
 ### 🌐 Vamos nos conectar?
 
-* 💼 **LinkedIn: linkedin.com/in/luis-henrique-317b64171/
-* ✉️ **E-mail:luis.henriquem030@gmail.com
-
----
-
-*⚡ "A qualidade não é um ato, é um hábito."*
+* 💼 **LinkedIn:** [Luis Henrique Moura](https://www.linkedin.com/in/luis-henrique-317b64171/)
+* ✉️ **E-mail:** [luis.henriquem030@gmail.com](mailto:luis.henriquem030@gmail.com)
