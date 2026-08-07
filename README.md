@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Luis Henrique Moura! 👋
 
-<!--
-**luish-moura/luish-moura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧪 QA Analyst | Quality Assurance & Software Testing
 
-Here are some ideas to get you started:
+Possuo mais de 5 anos de experiência no setor industrial com **Controle de Qualidade**, **Análise de Especificações Técnicas** e **Prevenção de Falhas**, e atualmente aplico essa bagagem analítica no universo do desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Conhecimentos & Ferramentas
+
+* **Testes de Software:** Testes Manuais, Testes Funcionais, Casos de Teste, Mapeamento e Reporte de Bugs.
+* **APIs:** Testes e Validação de Requisições com **Postman**.
+* **Banco de Dados:** Consultas e Manipulação de Dados com **SQL** (MySQL, PostgreSQL).
+* **Gestão & Controle:** **Git**, **GitHub**, Metodologias Ágeis (**Scrum**).
+
+---
+
+### 🌐 Vamos nos conectar?
+
+* 💼 **LinkedIn: linkedin.com/in/luis-henrique-317b64171/
+* ✉️ **E-mail:luis.henriquem030@gmail.com
+
+---
+
+*⚡ "A qualidade não é um ato, é um hábito."*
