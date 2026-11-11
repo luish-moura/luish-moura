@@ -1,20 +1,23 @@
 # Olá, eu sou o Luis Henrique Moura! 👋
 
-### 🧪 QA Analyst | Quality Assurance & Software Testing
+### 🛠️ Analista de Help Desk Jr | Suporte Técnico & Operações de TI
 
-Possuo mais de 5 anos de experiência no setor industrial com **Controle de Qualidade**, **Análise de Especificações Técnicas** e **Prevenção de Falhas**, e atualmente aplico essa bagagem analítica no universo do desenvolvimento de software.
+Profissional com sólida vivência corporativa e operacional, focado em **Suporte Técnico N1/N2, Help Desk e Atendimento Multicanal** (telefone, e-mail e WhatsApp). Combino capacidade analítica, resolução autônoma de problemas (*troubleshooting*) e bom relacionamento interpessoal para entregar diagnósticos rápidos e eficientes aos usuários.
+
+---
+
+### 🚀 Conhecimentos & Ferramentas
+
+- **Suporte Técnico & Infraestrutura:** Formatação de sistemas operacionais (Windows), montagem/substituição de componentes de hardware, instalação e parametrização de softwares corporativos.
+- **Redes & Conectividade:** Configuração de roteadores, Wi-Fi, endereçamento IP básico e diagnóstico de conectividade.
+- **Acesso Remoto & Ferramentas:** Suporte remoto via **TeamViewer** e **AnyDesk**, gestão de e-mails corporativos (Outlook, Google Workspace).
+- **Dados & Produtividade:** **Excel Avançado** (planilhas gerenciais, relatórios e dashboards), Pacote Office, sistemas ERP (**SAP / Protheus**) e utilização de ferramentas de **IA generativa (ChatGPT, Claude, Gemini)** para otimização de rotinas e troubleshooting.
+- **Atendimento & Processos:** Gestão de chamados, *follow-up* de solicitações, negociação com fornecedores/transportadoras e controle de prazos.
 
 ---
 
-### 🛠️ Conhecimentos & Ferramentas
-
-* **Testes de Software:** Testes Manuais, Testes Funcionais, Casos de Teste, Mapeamento e Reporte de Bugs.
-* **APIs:** Testes e Validação de Requisições com **Postman**.
-* **Banco de Dados:** Consultas e Manipulação de Dados com **SQL** (MySQL, PostgreSQL).
-* **Gestão & Controle:** **Git**, **GitHub**, Metodologias Ágeis (**Scrum**).
-
----
 ### 🌐 Vamos nos conectar?
 
-* 💼 **LinkedIn:** [Luis Henrique Moura](https://www.linkedin.com/in/luis-henrique-317b64171/)
-* ✉️ **E-mail:** [luis.henriquem030@gmail.com](mailto:luis.henriquem030@gmail.com)
+- 💼 **LinkedIn:** [Luis Henrique Moura](https://www.linkedin.com/in/luis-henrique-moura)
+- ✉️ **E-mail:** [luis.henriquem030@gmail.com](mailto:luis.henriquem030@gmail.com)
+- 📍 **Localização:** Cosmópolis - SP *(Disponível para atuação 100% Remota ou Presencial/Híbrida)*
